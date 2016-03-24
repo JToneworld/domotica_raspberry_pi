@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#autor: Jefferson Rivera
 import sys
 import signal
 from gpiozero import LED
